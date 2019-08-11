@@ -1,0 +1,5 @@
+
+First name: osman
+last name: faruk
+email: faruk
+Password: 556
