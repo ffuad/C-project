@@ -1,0 +1,12 @@
+1.Hotel Dallas
+  Rent:
+      AC     - 1500
+      Normal - 700
+2.Hotel Nice
+  Rent:
+      AC     - 1200
+      Normal - 600
+3.Hotel Golden Star
+  Rent:
+      AC     - 1250
+      Normal - 700

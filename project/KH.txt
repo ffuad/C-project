@@ -1,0 +1,16 @@
+1.Hotel Castle Salam
+  Rent:
+      AC     - 5393
+      Normal - 3400
+2.Tiger Garden International Hotel
+  Rent:
+      AC     - 3650
+      Normal - 2575
+3.Hotel Royal International
+  Rent:
+      AC     - 3265
+      Normal - 2190
+4.City Inn
+  Rent:
+      AC     - 6545
+      Normal - 4560

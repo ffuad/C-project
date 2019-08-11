@@ -1,0 +1,16 @@
+1.The Westin Dhaka
+  Rent:
+      AC     - 17780
+      Normal - 12500
+2.Pan Pacific Sonargaon Dhaka Hotel
+  Rent:
+      AC     - 16895
+      Normal - 11700
+3.Le Meridien Dhaka
+  Rent:
+      AC     - 21986
+      Normal - 14785
+4.InterContinental Dhaka
+  Rent:
+      AC     - 14610
+      Normal - 8955

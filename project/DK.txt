@@ -1,0 +1,15 @@
+Bus:
+1st Class seat(AC): 1300 taka
+1st Class seat: 550 taka
+2nd Class seat: 450 taka
+
+Train:
+1st Class seat(AC): 985 taka
+1st Class seat: 525 taka
+2nd Class seat: 375 taka
+
+Plane
+1st Class seat(AC): 4500 taka
+1st Class seat: 3200 taka
+2nd Class seat: 2500 taka
+
